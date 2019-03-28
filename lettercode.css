@@ -1,0 +1,31 @@
+/* 
+    Document   : lettercode
+    Created on : Feb 18, 2014, 11:01:05 AM
+    Author     : pdaniel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#title {
+      color: white;
+      background-color: olive;
+      width: 600px;
+      margin: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      text-align: center;
+     }
+#content {
+      width: 600px;
+      margin: 20px;
+     }
+#btnCopy {
+      margin-left: 280px;
+     }
+#btnDecode {
+      margin-left: 0;
+     }
+span {
+      color: red;
+}
+
